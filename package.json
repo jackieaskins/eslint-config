@@ -5,9 +5,10 @@
   "main": "index.js",
   "author": "Jacqueline Askins",
   "license": "MIT",
+  "repository": "github:jackieaskins/eslint-config",
   "peerDependencies": {
     "@typescript-eslint/eslint-plugin": "^5.35.1",
-    "eslint": ">= 8",
+    "eslint": ">=8",
     "eslint-plugin-import": "^2.26.0"
   },
   "dependencies": {
