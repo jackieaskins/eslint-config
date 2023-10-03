@@ -1,21 +1,21 @@
 {
   "name": "@jackieaskins/eslint-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "author": "Jacqueline Askins",
   "license": "MIT",
   "repository": "github:jackieaskins/eslint-config",
   "peerDependencies": {
-    "@typescript-eslint/eslint-plugin": "^5.35.1",
+    "@typescript-eslint/eslint-plugin": "^6.7.4",
     "eslint": ">=8",
-    "eslint-plugin-import": "^2.26.0"
+    "eslint-plugin-import": "^2.28.1"
   },
   "dependencies": {
-    "@typescript-eslint/parser": "^5.35.1",
-    "eslint-config-prettier": "^8.5.0"
+    "@typescript-eslint/parser": "^6.7.4",
+    "eslint-config-prettier": "^9.0.0"
   },
   "devDependencies": {
-    "prettier": "^2.7.1"
+    "prettier": "^3.0.3"
   }
 }
